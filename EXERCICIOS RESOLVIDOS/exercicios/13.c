@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+int main () {
+
+int k;
+int l;
+
+	printf("Coloque um valor: ");
+	scanf("%d",&l);
+
+	k = l * 0.45;
+
+	printf("\nValor em Kg: %d\n",k);
+
+}

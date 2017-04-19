@@ -1,0 +1,30 @@
+4)Preenche o vetor (vet) com os números (4,9,12) e depois atribui esses valores ao 
+ponteiro (ptr) e logo após mostra todos os valores através o ponteiro(ptr).
+
+
+6) Quais expresões são validas 
+a) falto o & comercial 
+b) falto o & 
+c) mat não é ponteiro
+d) a variavel mat não é ponteiro
+
+9) linha 1 declara duas variaveis a e b e coloca valores 5 e 12
+linha 2 declara p como ponteiro
+linha 3 declara q como ponteiro;
+linha 4 ponteiro p recebe o endereço de a;
+linha 5 ponteiro q recebe o endereço de b;
+linha 6 declara uma variavel c e soma os valores das duas outras A e B
+
+8) 
+linha 1 declara uma var I e inicializa com 99 e declara j também;
+linha 2 declara um ponteiro p
+linha 3 ponteiro p recebe o endereço de I
+linha 4 j recebe 100 somado com o valor da variavel I por que e aponta pra I
+7)
+linha 1 declara duas variaveis i e j e inicializa com 7 e 3
+linha 2 declara um ponteiro p
+linha 3 declara um ponteiro r 
+linha 4 ponteiro p recebe o endereço de i
+linha 5 ponteiro r recebe o endereço de p
+linha 6 soma j com r 
+6) nenhuma são válidas pois falta o & para ultilizar o ponteiro que está recebendo. 

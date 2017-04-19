@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <strings.h>
+
+struct base {
+		int num1;
+		int num2;
+		int num3;
+		int num4;
+};
+
+struct base pegar;
+
+int main () {
+	
+	printf("\t Numero 1:");
+	scanf("%d",&pegar.num1);
+
+	printf("Numero 2:");
+	scanf("%d",&pegar.num2);
+
+	printf("Numero 3:");
+	scanf("%d",&pegar.num3);
+	
+	printf("Numero 4:");
+	scanf("%d",&pegar.num4);
+	
+	int media;
+	
+	media = (pegar.num1+pegar.num2+pegar.num3+pegar.num4)/4;
+	
+printf("\n Resultado: %d \n",media);		
+}
